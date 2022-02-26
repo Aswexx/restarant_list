@@ -1,26 +1,17 @@
 # 我的餐廳清單
 
----
-
-此專案為課程作業練習。
-目前可供使用者查詢既存資料餐廳的各項細節資訊，例如: 店名、飲食類別、評分、地址等。
+可供使用者查詢既存資料餐廳的各項細節資訊，例如: 店名、飲食類別、評分、地址等。
 
 ## Features
-
----
 
 - 點擊單一餐廳卡片可進一步查看該餐廳的電話、地址以及介紹。
 - 可搜尋餐廳店名或飲食類別關鍵字，查詢符合的餐廳列表。
 
 ## 環境建置
 
----
-
 1. [Node.js](https://nodejs.org/en/)
 
 ## 安裝與執行
-
----
 
 1. 在本機建立新資料後，以終端機 cd 至該資料夾並 clone 此專案:
 
@@ -46,14 +37,10 @@ npm run dev
 
 ## 頁面截圖
 
----
-
 ![首頁](https://github.com/Aswexx/restarant_list/blob/main/public/images/index.png)
 ![詳細](https://github.com/Aswexx/restarant_list/blob/main/public/images/detail.png)
 
 ## 使用工具套件
-
----
 
 - Express@4.16.4
 - Express-handlebars@3.0.0
